@@ -1,0 +1,5 @@
+*{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+#leftCol{}
+#rightCol{background-color: lemonchiffon;}
+#leftCol .card{margin-top: 15px;}
+#loaiSach{margin-top: 15px;}
